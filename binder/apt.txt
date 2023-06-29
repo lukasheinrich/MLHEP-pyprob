@@ -1,2 +1,0 @@
-libgdbm-dev
-python3-gdbm
